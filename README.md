@@ -1,29 +1,52 @@
-# Enumerables
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/enumerables`. To experiment with that code, run `bin/console` for an interactive prompt.
+# Enumarable module
+> A module that implements some Enumerable methods
 
-TODO: Delete this and the text above, and describe your gem
+## Built With
 
-## Installation
+- Ruby
 
-Install the gem and add to the application's Gemfile by executing:
 
-    $ bundle add enumerables
+## Getting Started
 
-If bundler is not being used to manage dependencies, install the gem by executing:
+To get a local copy follow these simple example steps.  
 
-    $ gem install enumerables
+1.- Open the terminal window and clone the repository using this command:  
+`git@github.com:JuanLPalacios/enumerables.git` 
 
-## Usage
+2.- Change the directory to the enumerables directory  
+`cd enumerables`  
+3.- Install the project's dependencies by running this command:   
+`bundle install`  
+4.- Run the program using this command:  
+`ruby ./main.rb`  
 
-TODO: Write usage instructions here
 
-## Development
+## Authors
 
-After checking out the repo, run `bin/setup` to install dependencies. You can also run `bin/console` for an interactive prompt that will allow you to experiment.
+👤 **Juan Luis Palacios**
 
-To install this gem onto your local machine, run `bundle exec rake install`. To release a new version, update the version number in `version.rb`, and then run `bundle exec rake release`, which will create a git tag for the version, push git commits and the created tag, and push the `.gem` file to [rubygems.org](https://rubygems.org).
+- GitHub: [@JuanLPalacios](https://github.com/JuanLPalacios)
+- Twitter: [@JuanLuisPalac20](https://twitter.com/twitterhandle)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/juan-luis-palacios-p%C3%A9rez-95b39a228/)
 
-## Contributing
+👤 **Victor Peralta**
+- GitHub: [@VicPeralta](https://github.com/VicPeralta)
+- Twitter: [@VicPeralta](https://twitter.com/VicPeralta)
+- Linkedin: [@VicPeralta](https://www.linkedin.com/in/vicperalta/)
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/enumerables.
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## 📝 License
+
+This project is [MIT](./LICENSE.md) licensed.
+

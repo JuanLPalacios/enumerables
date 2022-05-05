@@ -1,6 +1,7 @@
 require './my_enumerable'
 class MyList
-  include MyEnumerable
+  # include MyEnumerable
+  include Enumerable
   def initialize(*params)
     @list = params
   end
