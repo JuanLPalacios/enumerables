@@ -6,7 +6,7 @@ class MyList
     @list = params
   end
 
-  def each(&block)
-    @list.each(&block)
+  def each(block)
+    @list.each(block)
   end
 end
